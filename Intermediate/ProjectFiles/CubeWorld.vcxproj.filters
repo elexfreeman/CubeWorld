@@ -54,4 +54,38 @@
       <Filter>Source\CubeWorld</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\CubeWorld\NyTestActor.h">
+      <Filter>Source\CubeWorld</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CubeWorld\PerlinNoise.h">
+      <Filter>Source\CubeWorld</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CubeWorld\CubeVoxel.h">
+      <Filter>Source\CubeWorld</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CubeWorld\CubeGen.h">
+      <Filter>Source\CubeWorld</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CubeWorld\CubeWorldArray.h">
+      <Filter>Source\CubeWorld</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\CubeWorld\NyTestActor.cpp">
+      <Filter>Source\CubeWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CubeWorld\PerlinNoise.cpp">
+      <Filter>Source\CubeWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CubeWorld\CubeVoxel.cpp">
+      <Filter>Source\CubeWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CubeWorld\CubeGen.cpp">
+      <Filter>Source\CubeWorld</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CubeWorld\CubeWorldArray.cpp">
+      <Filter>Source\CubeWorld</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
