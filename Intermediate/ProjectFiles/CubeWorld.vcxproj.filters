@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CubeWorld.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E1EF5BBD-9B51-4509-9B28-3175F2B8EEC9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CubeWorld.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CubeWorldEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{20ED7D41-D7D7-4D67-9BA7-B01C6C38FF07}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CubeWorld">
+      <UniqueIdentifier>{9FE4335D-7585-46ED-9877-C0285DFA6211}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CubeWorld\CubeWorld.Build.cs">
+      <Filter>Source\CubeWorld</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CubeWorld\CubeWorld.cpp">
+      <Filter>Source\CubeWorld</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CubeWorld\CubeWorld.h">
+      <Filter>Source\CubeWorld</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CubeWorld\CubeWorldCharacter.cpp">
+      <Filter>Source\CubeWorld</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CubeWorld\CubeWorldCharacter.h">
+      <Filter>Source\CubeWorld</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CubeWorld\CubeWorldGameMode.cpp">
+      <Filter>Source\CubeWorld</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CubeWorld\CubeWorldGameMode.h">
+      <Filter>Source\CubeWorld</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
